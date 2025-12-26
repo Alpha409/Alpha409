@@ -35,8 +35,8 @@ I specialize in building **scalable, high-performance Android applications** usi
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpha409&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha409&layout=compact&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpha409&show_icons=true&count_private=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha409&layout=compact&theme=dark)
 
 ---
 
