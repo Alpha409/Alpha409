@@ -2,7 +2,7 @@
 
 🚀 **Android Developer** | Kotlin • Java • Jetpack Compose  
 🎓 Bachelor's in Software Engineering  
-💼 3+ years of professional Android development experience  
+💼 4+ years of professional Android development experience  
 
 I specialize in building **scalable, high-performance Android applications** using modern Android development practices. I focus on **clean architecture, performance optimization, and maintainable code**.
 
