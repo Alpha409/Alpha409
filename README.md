@@ -16,6 +16,8 @@ I specialize in building **scalable, high-performance Android applications** usi
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![ISO 14443](https://img.shields.io/badge/ISO%2014443-NFC--A%20%2F%20NFC--B-blue?style=flat)
+![EMV](https://img.shields.io/badge/EMV-000000?style=flat&logo=visa&logoColor=white)
+
 
 
 ### 🧩 Architecture & Tools
