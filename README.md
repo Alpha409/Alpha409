@@ -34,6 +34,9 @@ I specialize in building **scalable, high-performance Android applications** usi
 - ⚡ App performance optimization & startup time reduction
 - 🧪 Writing clean, testable, and maintainable code
 - 🔄 Migrating XML-based UI to Compose
+- 📡 Contactless payment flows using NFC
+- 🔐 Host Card Emulation (HCE) & secure communication patterns
+-💳 EMV / card-based interactions & secure data handling
 
 ---
 
